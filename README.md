@@ -189,4 +189,14 @@ Em minutos, descobrimos após eliminarmos os outliers (filmes com durações exo
 
 Para expor tal informação distributiva em relação a duração temporal dos filmes disponíveis na Netflix, plotamos um gráfico de violino e um gráfico de caixa (Box-Plot) para termos uma representação visual de tal informação:
 
-![](./img11.png)
+![](./img/img11.png)
+
+À partir de tal questão, poderemos continuar à responder perguntas relacionadas à esse tópico de duração de filmes (ou séries) para sabermos quais são os filmes e séries com o maior tempo de duração disponibilizados na Netflix?
+
+#### **(6)** Quais são os filmes e séries com o maior tempo de duração que estão disponíveis na Netflix?
+
+Basicamente, filtramos os dez filmes com o maior tempo de duração em minutos, e separadamente filtramos às dez séries com o maior tempo de duração em relação à quantidade de temporadas.
+
+Disto, plotamos dois gráficos de barras horizontais para representar os dez filmes e séries com o maior tempo de duração:
+
+![](./img/img13.png)
