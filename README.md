@@ -200,3 +200,31 @@ Basicamente, filtramos os dez filmes com o maior tempo de duração em minutos, 
 Disto, plotamos dois gráficos de barras horizontais para representar os dez filmes e séries com o maior tempo de duração:
 
 ![](./img/img13.png)
+
+Basicamente, o filme Black Mirror Bandersnatch original da Netflix é o filme com o maior tempo de duração em minutos catalogado na plataforma, tal filme curiosamente é uma produção inovadora e insólita  por utilizar o expectador como um participante do filme que decidirá o destino roteirístico do protagonista (tal filme trata conceitualmente sobre a ilusão do livre-arbítrio de uma perspectiva filosófica).
+
+As séries com maior tempo de duração em temporadas catalogados na Netflix são Grey's Anatomy e Supernatural que são séries com mais de 10 temporadas produzidas.
+
+Para finalizar tal análise exploratória, podemos trazer informações relacionados à quantidade de filmes e séries por categoria, isto é, traremos respostas para a seguinte questão:
+
+#### **(7)** Qual é a quantidade de filmes e séries por categoria (ou gênero)?
+
+Basicamente, fizemos uma limpeza nos dados da coluna listado_em para separarmos os gêneros de cada filme e série para contabilizarmos individualmente a quantidade de filmes ou séries concernentes à cada categoria, disto plotamos dois gráficos de barras horizontais para representar os tipos e genêros de filmes e séries mais disponibilizados na plataforma.
+
+Primeiramente, o gráfico abaixo representa a quantidade de filmes por gênero que estão disponíveis na Netflix:
+
+![](./img/img14.png)
+
+O gráfico seguinte expressa a quantidade de séries por gênero que estão disponibilizadas na Netflix:
+
+![](./img/img15.png)
+
+Em suma, concluímos que na Netflix, os gêneros de filmes que mais se destacam na plataforma são filmes internacionais, filmes de comédia, drama e especialmente documentários que são considerados tipologicamente como filmes.
+
+Já os tipos de séries mais destacáveis na Netflix são séries internacionais, séries de drama, de comédia e especialmente séries criminais.
+
+Curiosamente, os tipos de filmes mais catalogados são quase os mesmos tipos de séries catalogadas na Netflix.
+
+Por fim, essa foi a análise exploratória relacionada aos dados da Netflix, espero que tais conhecimentos descobertos e expostos detalhadamente tenham sido proveitosos para explicitar mais informações sobre está plataforma que é tão popular e tão aclamada nos últimos anos no que concerne aos serviços de streaming.
+
+## ANÁLISE EXPLORATÓRIA FINALIZADA
