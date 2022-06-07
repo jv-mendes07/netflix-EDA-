@@ -213,11 +213,11 @@ Basicamente, fizemos uma limpeza nos dados da coluna listado_em para separarmos 
 
 Primeiramente, o gráfico abaixo representa a quantidade de filmes por gênero que estão disponíveis na Netflix:
 
-![](./img/img14.png)
+![](./img/a17.png)
 
 O gráfico seguinte expressa a quantidade de séries por gênero que estão disponibilizadas na Netflix:
 
-![](./img/img15.png)
+![](./img/a18.png)
 
 Em suma, concluímos que na Netflix, os gêneros de filmes que mais se destacam na plataforma são filmes internacionais, filmes de comédia, drama e especialmente documentários que são considerados tipologicamente como filmes.
 
