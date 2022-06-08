@@ -153,7 +153,7 @@ Respondida à nossa questão, poderemos continuar a explorar tais questões téc
 
 Para respondermos diretamente tal questão, fizemos um processo de agrupamento análogo ao que foi feito para responder às questões anteriores, então rapidamente podemos plotar um gráfico de barras horizontais para sabermos quais diretores são mais destacáveis em relação à produção de filmes na Netflix:
 
-![](./img/img8.png)
+![](./img/img20.png)
 
 Basicamente, o diretor com mais filmes dirigidos e disponibilizados para a Netflix é o diretor Rajiv Chilaka, reconhecido principalmente como um diretor de filmes de animação. 
 
