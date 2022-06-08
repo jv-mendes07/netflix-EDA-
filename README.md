@@ -44,9 +44,9 @@ Colunas do dataset da Netflix:
   
   **(1)** Renomeamos todas às colunas originais do dataset com traduções do inglês para o português, para termos um entendimento mais intuitivo das informações contidas em cada coluna do conjunto de dados.
   
-  * Tipo de dados:
+ * Tipo dos dados:
 
-  **(1)** A coluna relativa à data de lançamento (na plataforma da Netflix) dos filmes e séries estavam no formato object, à partir disto substituimos os nomes dos meses pelos números relativos à esses meses para podermos consequentemente converter a coluna de object para o tipo datetime.
+   **(1)** A coluna relativa à data de lançamento (na plataforma da Netflix) dos filmes e séries estavam no formato object, à partir disto substituimos os nomes dos meses pelos números relativos à esses meses para podermos consequentemente converter a coluna de object para o tipo datetime.
   
 ```
   lista_a = {'January': '1', 'February': '2', 'March': '3', 'April': '4', 'May': '5',
@@ -153,7 +153,7 @@ Respondida à nossa questão, poderemos continuar a explorar tais questões téc
 
 Para respondermos diretamente tal questão, fizemos um processo de agrupamento análogo ao que foi feito para responder às questões anteriores, então rapidamente podemos plotar um gráfico de barras horizontais para sabermos quais diretores são mais destacáveis em relação à produção de filmes na Netflix:
 
-![](./img8.png)
+![](./img/img8.png)
 
 Basicamente, o diretor com mais filmes dirigidos e disponibilizados para a Netflix é o diretor Rajiv Chilaka, reconhecido principalmente como um diretor de filmes de animação. 
 
@@ -213,11 +213,11 @@ Basicamente, fizemos uma limpeza nos dados da coluna listado_em para separarmos 
 
 Primeiramente, o gráfico abaixo representa a quantidade de filmes por gênero que estão disponíveis na Netflix:
 
-![](./img/img14.png)
+![](./img/a17.png)
 
 O gráfico seguinte expressa a quantidade de séries por gênero que estão disponibilizadas na Netflix:
 
-![](./img/img15.png)
+![](./img/a18.png)
 
 Em suma, concluímos que na Netflix, os gêneros de filmes que mais se destacam na plataforma são filmes internacionais, filmes de comédia, drama e especialmente documentários que são considerados tipologicamente como filmes.
 
