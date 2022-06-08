@@ -46,7 +46,7 @@ Colunas do dataset da Netflix:
   
  * Tipo dos dados:
 
-  **(1)** A coluna relativa à data de lançamento (na plataforma da Netflix) dos filmes e séries estavam no formato object, à partir disto substituimos os nomes dos meses pelos números relativos à esses meses para podermos consequentemente converter a coluna de object para o tipo datetime.
+   **(1)** A coluna relativa à data de lançamento (na plataforma da Netflix) dos filmes e séries estavam no formato object, à partir disto substituimos os nomes dos meses pelos números relativos à esses meses para podermos consequentemente converter a coluna de object para o tipo datetime.
   
 ```
   lista_a = {'January': '1', 'February': '2', 'March': '3', 'April': '4', 'May': '5',
