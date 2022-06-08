@@ -44,7 +44,7 @@ Colunas do dataset da Netflix:
   
   **(1)** Renomeamos todas às colunas originais do dataset com traduções do inglês para o português, para termos um entendimento mais intuitivo das informações contidas em cada coluna do conjunto de dados.
   
-  * Tipo de dados:
+ * Tipo de dados:
 
   **(1)** A coluna relativa à data de lançamento (na plataforma da Netflix) dos filmes e séries estavam no formato object, à partir disto substituimos os nomes dos meses pelos números relativos à esses meses para podermos consequentemente converter a coluna de object para o tipo datetime.
   
